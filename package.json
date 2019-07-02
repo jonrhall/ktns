@@ -1,0 +1,20 @@
+{
+  "name": "ktns",
+  "description": "A kittens visualization engine",
+  "version": "1.0.0",
+  "author": "jonrhall",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack",
+    "webpack-dev-server": "cross-env NODE_ENV=development webpack-dev-server --open http://localhost:8080/ktns.user.js"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5",
+    "webpack-dev-server": "^3.7.2",
+    "webpack-userscript": "^2.3.0"
+  }
+}
