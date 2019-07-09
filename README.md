@@ -10,6 +10,10 @@ A real-time [Kittens Game](http://bloodrizer.ru/games/kittens/#) resource visual
 * At-a-glance ability to tell where you are resource-capped
 * Hovering over Bonfire tab action buttons projects a red marker in the chart to show how much of a given resource that action will consume
 
+## See it in action
+
+![Graphic](images/ktns.gif "ktns")
+
 ## Installation
 
 * Requires [Tampermonkey v4.8](https://www.tampermonkey.net/) or greater
@@ -22,4 +26,4 @@ A real-time [Kittens Game](http://bloodrizer.ru/games/kittens/#) resource visual
 ## More information
 
 Each resource chart will have the following properties:\
-![Alt text](images/chart.png?raw=true "Chart")
+![Sample chart](images/chart.png?raw=true "Sample chart")
