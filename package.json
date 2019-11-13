@@ -1,7 +1,7 @@
 {
   "name": "ktns",
   "description": "A kittens visualization engine",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "jonrhall",
   "main": "index.js",
   "scripts": {
